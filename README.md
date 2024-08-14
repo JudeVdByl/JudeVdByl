@@ -46,7 +46,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">Malware Detection Engineering with the Pyramid of Pain</a>
 - Detection Lab
 - SOC Automation Project
 - Test Project
