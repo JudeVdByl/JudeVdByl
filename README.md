@@ -39,7 +39,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 
 
 ## Projects
-- <a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">Malware Detection Engineering with the Pyramid of Pain</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
+- [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used) - PicoSecure Threat Simulation and Detection Challenge
+- [Email-TA](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) - Email Threat Analysis Using Cisco Talos Intelligence
+- [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - Network Security Analysis Project
+
