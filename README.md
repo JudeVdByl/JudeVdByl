@@ -26,23 +26,22 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 | **Security Policies and Procedures** |                                                                                                                  |
 | **Forensics**                        | [1](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used), [2](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) |
 | **Cloud Security**                   |                                                                                                                  |
-
-
 ## Tools
 
 ### Network
-[![Wireshark](https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_icon.svg)](https://www.wireshark.org/)
+<img src="https://img.shields.io/badge/-Wireshark-306998?style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 ### Endpoint
-[![Thunderbird](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/1200px-Thunderbird_Logo%2C_2018.svg.png)](https://www.thunderbird.net/)
+<img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" />
 
 ### SIEM
-[![Cisco Talos](https://www.talosintelligence.com/assets/images/logo-talos-1000-1500px.png)](https://talosintelligence.com/)
-[![PicoSecure](https://example.com/picosecure-logo.png)](https://picosecure.com/)  <!-- You need to replace this URL with the actual image URL -->
+<img src="https://img.shields.io/badge/-Cisco%20Talos%20Intelligence-FF5733?style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-PicoSecure-5A5A5A?style=for-the-badge&logo=Secure&logoColor=white" />
 
 ### Utility
-[![CyberChef](https://gchq.github.io/CyberChef/images/logo.png)](https://gchq.github.io/CyberChef/)
-[![PhishTool](https://phishtool.com/assets/images/logo.png)](https://phishtool.com/)
+<img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" />
+<img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" />
+
 
 
 ## Projects
