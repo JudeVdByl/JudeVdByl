@@ -29,8 +29,8 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Thunderbird](https://www.thunderbird.net/), [Cisco Talos Intelligence](https://talosintelligence.com/), [CyberChef](https://gchq.github.io/CyberChef/), [PhishTool](https://phishtool.com/), [Wireshark](https://www.wireshark.org/), [PicoSecure](https://picosecure.com/)
+
 
 ### Network
 <div>
