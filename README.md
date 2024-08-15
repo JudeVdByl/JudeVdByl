@@ -15,18 +15,18 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 [Provide skills and associated project. Make sure to hyperlink the project]
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill               | Associated Projects |
-|--------------------------------------|---------------------|
-| **Technical Skills**                 |<a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">1</a>
-                                        <a href="https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md">2</a>|
-| **Security Tools**                   |<a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">1</a>                                             <a href="https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md">2</a>|
-| **Compliance and Legal Knowledge**   |                     |
-| **Risk Management**                  |                     |
-| **Scripting and Programming**        |                     |
-| **Security Frameworks and Standards**|                     |
-| **Security Policies and Procedures** |                     |
-| **Forensics**                        |<a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">1</a>                                             <a href="https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md">2</a>|
-| **Cloud Security**                   |                     |
+| Skill                                | Associated Projects                                                                                              |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Technical Skills**                 | [1](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used), [2](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) |
+| **Security Tools**                   | [1](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used), [2](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) |
+| **Compliance and Legal Knowledge**   |                                                                                                                  |
+| **Risk Management**                  |                                                                                                                  |
+| **Scripting and Programming**        |                                                                                                                  |
+| **Security Frameworks and Standards**|                                                                                                                  |
+| **Security Policies and Procedures** |                                                                                                                  |
+| **Forensics**                        | [1](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used), [2](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) |
+| **Cloud Security**                   |                                                                                                                  |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
