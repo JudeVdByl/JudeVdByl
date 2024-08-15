@@ -29,7 +29,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 
 
 ## Tools
-[Thunderbird](https://www.thunderbird.net/), [Cisco Talos Intelligence](https://talosintelligence.com/), [CyberChef](https://gchq.github.io/CyberChef/), [PhishTool](https://phishtool.com/), [Wireshark](https://www.wireshark.org/), [PicoSecure](https://picosecure.com/)
+[Thunderbird](https://www.thunderbird.net/), [Cisco Talos Intelligence](https://talosintelligence.com/), [CyberChef](https://gchq.github.io/CyberChef/), [PhishTool](https://www.phishtool.com/), [Wireshark](https://www.wireshark.org/), [PicoSecure](https://picosecure.com/)
 
 
 ### Network
