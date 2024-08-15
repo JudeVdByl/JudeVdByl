@@ -29,24 +29,21 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 
 
 ## Tools
-[Thunderbird](https://www.thunderbird.net/), [Cisco Talos Intelligence](https://talosintelligence.com/), [CyberChef](https://gchq.github.io/CyberChef/), [PhishTool](https://www.phishtool.com/), [Wireshark](https://www.wireshark.org/), [PicoSecure](https://picosecure.com/)
-
 
 ### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
+[![Wireshark](https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_icon.svg)](https://www.wireshark.org/)
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
+### Endpoint
+[![Thunderbird](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/1200px-Thunderbird_Logo%2C_2018.svg.png)](https://www.thunderbird.net/)
+
+### SIEM
+[![Cisco Talos](https://www.talosintelligence.com/assets/images/logo-talos-1000-1500px.png)](https://talosintelligence.com/)
+[![PicoSecure](https://example.com/picosecure-logo.png)](https://picosecure.com/)  <!-- You need to replace this URL with the actual image URL -->
+
+### Utility
+[![CyberChef](https://gchq.github.io/CyberChef/images/logo.png)](https://gchq.github.io/CyberChef/)
+[![PhishTool](https://phishtool.com/assets/images/logo.png)](https://phishtool.com/)
+
 
 ## Projects
 - <a href="https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used">Malware Detection Engineering with the Pyramid of Pain</a>
