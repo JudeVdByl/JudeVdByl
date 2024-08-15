@@ -6,14 +6,10 @@
 I am Jude Van der Byl, an IT leader based in Atlanta, GA, skilled in systems administration and cybersecurity. I excel in enhancing system reliability and user satisfaction, backed by certifications like CompTIA CySA and Microsoft Certified Azure AI Fundamentals. Currently, I'm driving improvements as an IT Analyst at DaVita.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
 My background in IT has fueled my enthusiasm for cybersecurity, and I am now keen to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                | Associated Projects                                                                                              |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------|
