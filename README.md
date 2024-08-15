@@ -1,7 +1,7 @@
 # Hello, I'm Jude
 <a href="https://www.linkedin.com/in/judevdbyl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am Jude Van der Byl, an IT leader based in Atlanta, GA, skilled in systems administration and cybersecurity. I excel in enhancing system reliability and user satisfaction, backed by certifications like CompTIA CySA and Microsoft Certified Azure AI Fundamentals. Currently, I'm driving improvements as an IT Analyst at DaVita.
+I am Jude Van der Byl, an experienced IT professional with extensive knowledge in systems administration and information security. Proactive in implementing updates and solutions with minimal downtime, and highly skilled in troubleshooting technical issues to ensure quick resolutions. Competent in monitoring and maintaining network availability, ensuring seamless access for all system users while performing necessary maintenance to support network operations.
 
 ## Objective
 
