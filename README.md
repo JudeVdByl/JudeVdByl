@@ -20,7 +20,6 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 | **Security Policies and Procedures**   | [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md), [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main), [MFA-Implementation](https://github.com/JudeVdByl/Implementation-of-Multi-Factor-Authentication-MFA-at-TechSolutions-Inc.)                                                                                           |
 | **Forensics**                          | [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used), [Email-TA](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md), [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md), [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main) |
 | **Cloud Security**                     |                                                                                                                                                                                                                                                          |
-
 ## Tools
 
 ### Network
@@ -33,7 +32,8 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 <img src="https://img.shields.io/badge/-Cisco%20Talos%20Intelligence-FF5733?style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-PicoSecure-5A5A5A?style=for-the-badge&logo=Secure&logoColor=white" /> <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ### Utility
-<img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" /> <img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" /> <img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor
+<img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" /> <img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" /> <img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-OKTA-007DC5?style=for-the-badge&logo=Okta&logoColor=white" />
+
 
 
 ## Projects
