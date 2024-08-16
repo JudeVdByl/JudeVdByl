@@ -39,4 +39,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 - [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used) - PicoSecure Threat Simulation and Detection Challenge
 - [Email-TA](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) - Email Threat Analysis Using Cisco Talos Intelligence
 - [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - Network Security Analysis Project
+- [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main) - Honeypot Implementation for Buzz & Harvest Honey Co.
+
+
 
