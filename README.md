@@ -35,11 +35,9 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ### Utility
 <img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" /> <img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" /> <img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-OKTA-007DC5?style=for-the-badge&logo=Okta&logoColor=white" />
 
-
-
 ## Projects
 - [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used) - PicoSecure Threat Simulation and Detection Challenge
-- [Email-TA](https://github.com/JudeVdByl/Email-Threat-Analysis-Using-Cisco-Talos-Intelligence/blob/main/README.md) - Email Threat Analysis Using Cisco Talos Intelligence
+- [SOC Email Inv](https://github.com/JudeVdByl/SOC-Analyst-Email-Investigation) - SOC Analyst Email Investigation
 - [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - Network Security Analysis Project
 - [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main) - Honeypot Implementation for Buzz & Harvest Honey Co.
 - [MFA-Implementation](https://github.com/JudeVdByl/Implementation-of-Multi-Factor-Authentication-MFA-at-TechSolutions-Inc.) - Implementation of Multi-Factor Authentication (MFA) at TechSolutions Inc.
