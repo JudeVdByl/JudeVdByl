@@ -27,16 +27,13 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 <img src="https://img.shields.io/badge/-Wireshark-306998?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Zenmap-FF5733?style=for-the-badge&logo=Zenmap&logoColor=white" />
 
 ### Endpoint
+<img src="https://img.shields.io/badge/-Dionaea-9C27B0?style=for-the-badge&logo=Dionaea&logoColor=white" />
 
 ### SIEM
-<img src="https://img.shields.io/badge/-Cisco%20Talos%20Intelligence-FF5733?style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-PicoSecure-5A5A5A?style=for-the-badge&logo=Secure&logoColor=white" />
-
-### Monitoring Systems
-<img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Dionaea-9C27B0?style=for-the-badge&logo=Dionaea&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Talos%20Intelligence-FF5733?style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-PicoSecure-5A5A5A?style=for-the-badge&logo=Secure&logoColor=white" /> <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
 
 ### Utility
 <img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" /> <img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" /> <img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" />
-
 
 ## Projects
 - [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used) - PicoSecure Threat Simulation and Detection Challenge
