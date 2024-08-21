@@ -36,17 +36,21 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 <img src="https://img.shields.io/badge/-CyberChef-00A4CC?style=for-the-badge&logo=Chef&logoColor=white" /> <img src="https://img.shields.io/badge/-PhishTool-FF6600?style=for-the-badge&logo=Phishing&logoColor=white" /> <img src="https://img.shields.io/badge/-Thunderbird-4A90E2?style=for-the-badge&logo=Thunderbird&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-OKTA-007DC5?style=for-the-badge&logo=Okta&logoColor=white" /> <img src="https://img.shields.io/badge/-DocIntel-FF0000?style=for-the-badge&logo=Intel&logoColor=white" />
 
 ## Projects
-- [PicoSecure](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md#tools-used) - PicoSecure Threat Simulation and Detection Challenge
-- [SOC Email Inv](https://github.com/JudeVdByl/SOC-Analyst-Email-Investigation) - SOC Analyst Email Investigation
-- [NetSec-AP](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - Network Security Analysis Project
-- [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main) - Honeypot Implementation for Buzz & Harvest Honey Co.
-- [MFA-Implementation](https://github.com/JudeVdByl/Implementation-of-Multi-Factor-Authentication-MFA-at-TechSolutions-Inc.) - Implementation of Multi-Factor Authentication (MFA) at TechSolutions Inc.
-- [Yara Rule Creation](https://github.com/JudeVdByl/Yara-Detection-and-Rule-Creation-Project/tree/main) - Yara Detection and Rule Creation Project
-- [OpenCTI Threat Intelligence Platform Walkthrough](https://github.com/JudeVdByl/OpenCTI-Threat-Intelligence-Platform-Walkthrough) - Detailed walkthrough of OpenCTI on TryHackMe
-- [Azure-Sec Impl](https://github.com/JudeVdByl/Azure-Cloud-Security-Implementation-Project) - Azure Cloud Security Implementation Project
-- [MISP](https://github.com/JudeVdByl/Malware-Information-Sharing-Platform/blob/main/README.md) - Malware Information Sharing Platform (MISP) Project
-- [pRsm IR](https://github.com/JudeVdByl/Incident-Response-and-Malware-Analysis-Uncovering-the-pRsm.dll-Threat-in-Financial-Sector-Cybers) - Incident Response and Malware Analysis: Uncovering the pRsm.dll Threat in Financial Sector Cybersecurity
-- [APT X](https://github.com/JudeVdByl/Analyzing-APT-X-and-USBFerry-Malware) - Analyzing APT X and USBFerry Malware
+- [PicoSecure Threat Challenge](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md) - A project focused on simulating and detecting cybersecurity threats within the PicoSecure environment.
+- [SOC Analyst Email Investigation](https://github.com/JudeVdByl/SOC-Analyst-Email-Investigation) - An investigation into email security incidents, analyzing potential threats as a SOC analyst.
+- [Network Security Analysis](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - A comprehensive analysis of network security protocols and potential vulnerabilities.
+- [Buzz & Harvest Honeypot](https://github.com/JudeVdByl/Cyber-Deception-and-Defense-Project-Honeypot-Implementation-for-Buzz-Harvest-Honey-Co./tree/main) - Implementation of honeypot strategies for cyber defense at Buzz & Harvest Honey Co.
+- [MFA at TechSolutions](https://github.com/JudeVdByl/Implementation-of-Multi-Factor-Authentication-MFA-at-TechSolutions-Inc.) - Deployment of Multi-Factor Authentication (MFA) to enhance security at TechSolutions Inc.
+- [Yara Rule Creation](https://github.com/JudeVdByl/Yara-Detection-and-Rule-Creation-Project/tree/main) - Creation and implementation of Yara rules for threat detection and response.
+- [OpenCTI Walkthrough](https://github.com/JudeVdByl/OpenCTI-Threat-Intelligence-Platform-Walkthrough) - A detailed walkthrough of the OpenCTI threat intelligence platform.
+- [Azure Security Implementation](https://github.com/JudeVdByl/Azure-Cloud-Security-Implementation-Project) - A project focused on enhancing security measures within the Azure cloud environment.
+- [MISP Project](https://github.com/JudeVdByl/Malware-Information-Sharing-Platform/blob/main/README.md) - Implementation of the Malware Information Sharing Platform (MISP) for improved threat intelligence sharing.
+- [pRsm.dll Incident Response](https://github.com/JudeVdByl/Incident-Response-and-Malware-Analysis-Uncovering-the-pRsm.dll-Threat-in-Financial-Sector-Cybers) - Incident response and malware analysis centered on the pRsm.dll threat in the financial sector.
+- [APT X & USBFerry Analysis](https://github.com/JudeVdByl/Analyzing-APT-X-and-USBFerry-Malware) - An in-depth analysis of APT X and USBFerry malware and their implications.
+- [SAGE Books Compliance](https://github.com/JudeVdByl/Security-and-Compliance-Enhancement-for-SAGE-Books/blob/main/README.md) - Enhancing security and compliance frameworks for SAGE Books.
+- [TechFite Compliance Review](https://github.com/JudeVdByl/Legal-and-Security-Compliance-Review-for-TechFite/blob/main/README.md) - A legal and security compliance review for TechFite, addressing identified gaps.
+- [FMC Security Enhancement](https://github.com/JudeVdByl/Security-and-Compliance-Enhancement-for-Fielder-Medical-Center-FMC-/blob/main/README.md) - Security and compliance enhancements for Fielder Medical Center (FMC).
+
 
 
 
