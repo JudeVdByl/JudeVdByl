@@ -72,14 +72,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 - [APT X & USBFerry Analysis](https://github.com/JudeVdByl/Analyzing-APT-X-and-USBFerry-Malware) - An in-depth analysis of APT X and USBFerry malware and their implications.
 - [Brute Force Mitigation](https://github.com/JudeVdByl/Brute-Force-Attack-Mitigation/blob/main/README.md) - Mitigation strategies to prevent brute force attacks on critical systems.
 - [SAGE Books Compliance](https://github.com/JudeVdByl/Security-and-Compliance-Enhancement-for-SAGE-Books/blob/main/README.md) - Enhancing security and compliance frameworks for SAGE Books.
-- [TechFite Compliance Review](https://github.com/JudeVdByl/Legal-and-Security-Compliance-Review-for-TechFite/blob/main/README.md) - A legal and security compliance review for TechFite, addressing identified gaps.
-- [FMC Security Enhancement](https://github.com/JudeVdByl/Security-and-Compliance-Enhancement-for-Fielder-Medical-Center-FMC-/blob/main/README.md) - Security and compliance enhancements for Fielder Medical Center (FMC).
-- [Reverse Shells Detection](https://github.com/JudeVdByl/Detecting-and-Blocking-Outbound-Reverse-Shells/blob/main/README.md) - Detection and blocking of outbound reverse shells using Snort and Metasploit to prevent malicious traffic.
-- [NetworkMiner Traffic Analysis](https://github.com/JudeVdByl/Network-Traffic-Analysis-Project) - Forensic analysis of network traffic using NetworkMiner to extract crucial data like IP addresses and login credentials.
-- [Zeek Network Traffic Analysis Project](https://github.com/JudeVdByl/Zeek-Network-Traffic-Analysis-Project/blob/main/README.md) - A comprehensive network traffic analysis project using Zeek to detect and analyze malicious network behavior.
-- [Phishing Attempt Investigation](https://github.com/JudeVdByl/Phishing-Attempt-Investigation) - A forensic investigation into a phishing attempt, analyzing the tactics and tools used by cyber attackers.
-- [Anomalous DNS Activity Investigation](https://github.com/JudeVdByl/Anomalous-DNS-Activity-Investigation/blob/main/README.md) - Investigation of suspicious DNS traffic and detection of potential DNS tunneling activity.
-- [Log4j Exploitation Detection using Zeek](https://github.com/JudeVdByl/Log4j-Exploitation-Detection-using-Zeek/blob/main/README.md) - A project that focuses on detecting and decoding a Log4j exploitation attempt using Zeek and related tools.
+- [TechFite Compliance Review];
 
 
 
