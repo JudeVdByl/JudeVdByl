@@ -60,6 +60,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 
 ## Projects
+
 - [PicoSecure Threat Challenge](https://github.com/JudeVdByl/PicoSecure-Threat-Simulation-and-Detection-Challenge/blob/main/README.md) - A project focused on simulating and detecting cybersecurity threats within the PicoSecure environment.
 - [SOC Analyst Email Investigation](https://github.com/JudeVdByl/SOC-Analyst-Email-Investigation) - An investigation into email security incidents, analyzing potential threats as a SOC analyst.
 - [Network Security Analysis](https://github.com/JudeVdByl/Network-Security-Analysis-Project/blob/main/README.md) - A comprehensive analysis of network security protocols and potential vulnerabilities.
@@ -73,8 +74,18 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 - [APT X & USBFerry Analysis](https://github.com/JudeVdByl/Analyzing-APT-X-and-USBFerry-Malware) - An in-depth analysis of APT X and USBFerry malware and their implications.
 - [Brute Force Mitigation](https://github.com/JudeVdByl/Brute-Force-Attack-Mitigation/blob/main/README.md) - Mitigation strategies to prevent brute force attacks on critical systems.
 - [SAGE Books Compliance](https://github.com/JudeVdByl/Security-and-Compliance-Enhancement-for-SAGE-Books/blob/main/README.md) - Enhancing security and compliance frameworks for SAGE Books.
-- [TechFite Compliance Review];
+- [TechFite Compliance Review](https://github.com/JudeVdByl/Legal-and-Security-Compliance-Review-for-TechFite/blob/main/README.md) - A thorough compliance and security review for TechFite, focusing on legal and regulatory standards.
+- [Reverse Shell Detection](https://github.com/JudeVdByl/Detecting-and-Blocking-Outbound-Reverse-Shells/blob/main/README.md) - Detection and blocking mechanisms for outbound reverse shell connections to prevent unauthorized remote access.
+- [Zeek Network Traffic Analysis](https://github.com/JudeVdByl/Zeek-Network-Traffic-Analysis-Project/blob/main/README.md) - Utilizing Zeek for network traffic analysis, focusing on identifying anomalies and potential threats.
+- [Phishing Attempt Investigation](https://github.com/JudeVdByl/Phishing-Attempt-Investigation) - Investigation into phishing attempts, detailing detection and response measures.
+- [Anomalous DNS Investigation](https://github.com/JudeVdByl/Anomalous-DNS-Activity-Investigation/blob/main/README.md) - Analyzing and investigating unusual DNS activities as potential indicators of compromise.
+- [Log4j Exploitation Detection using Zeek](https://github.com/JudeVdByl/Log4j-Exploitation-Detection-using-Zeek/blob/main/README.md) - Project focused on detecting Log4j exploit attempts using Zeek.
+- [Network Traffic Security Analysis](https://github.com/JudeVdByl/Network-Security-and-Traffic-Analysis-Project) - Comprehensive analysis of network traffic for enhanced security monitoring and threat detection.
+- [Advanced Wireshark Operations](https://github.com/JudeVdByl/Advanced-Wireshark-Packet-Operations) - Advanced packet analysis techniques using Wireshark for in-depth network security assessment.
+- [Wireshark Basics Exploration](https://github.com/JudeVdByl/Wireshark-Basics-Exploration) - Introduction to Wireshark basics, focusing on foundational packet analysis skills.
+- [Brim Traffic Analysis](https://github.com/JudeVdByl/Network-Traffic-Analysis-with-Brim) - Network traffic analysis project utilizing Brim for efficient data examination and threat identification.
 
+# 
 
 
 
