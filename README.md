@@ -22,8 +22,6 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 | **Cloud Security**                     | [Azure Sec](https://github.com/JudeVdByl/Azure-Cloud-Security-Implementation-Project) |
 
 
-
-
 ## Tools
 
 ### Network
@@ -33,6 +31,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ![Snort](https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white)
 ![NetworkMiner](https://img.shields.io/badge/-NetworkMiner-FFD700?style=for-the-badge&logo=NetworkMiner&logoColor=white)
 ![Zeek](https://img.shields.io/badge/-Zeek-4B0082?style=for-the-badge&logo=Zeek&logoColor=white)
+![Brim](https://img.shields.io/badge/-Brim-008080?style=for-the-badge&logo=Brim&logoColor=white)
 
 ### Endpoint
 ![Dionaea](https://img.shields.io/badge/-Dionaea-9C27B0?style=for-the-badge&logo=Dionaea&logoColor=white)
@@ -58,6 +57,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ![OKTA](https://img.shields.io/badge/-OKTA-007DC5?style=for-the-badge&logo=Okta&logoColor=white)
 ![DocIntel](https://img.shields.io/badge/-DocIntel-FF0000?style=for-the-badge&logo=Intel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+
 
 ## Projects
 
