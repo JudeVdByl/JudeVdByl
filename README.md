@@ -39,6 +39,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ![Loki](https://img.shields.io/badge/-Loki-003366?style=for-the-badge&logo=Loki&logoColor=white)
 ![yarGen](https://img.shields.io/badge/-yarGen-4B0082?style=for-the-badge&logo=yarGen&logoColor=white)
 ![Valhalla](https://img.shields.io/badge/-Valhalla-008080?style=for-the-badge&logo=Valhalla&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-007ACC?style=for-the-badge&logo=PowerShell&logoColor=white)
 
 ### SIEM
 ![Cisco Talos Intelligence](https://img.shields.io/badge/-Cisco%20Talos%20Intelligence-FF5733?style=for-the-badge&logo=Cisco&logoColor=white)
@@ -57,6 +58,7 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 ![OKTA](https://img.shields.io/badge/-OKTA-007DC5?style=for-the-badge&logo=Okta&logoColor=white)
 ![DocIntel](https://img.shields.io/badge/-DocIntel-FF0000?style=for-the-badge&logo=Intel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+![Event Viewer](https://img.shields.io/badge/-Event%20Viewer-0078D4?style=for-the-badge&logo=Windows&logoColor=white)
 
 
 ## Projects
@@ -84,6 +86,8 @@ My background in IT has fueled my enthusiasm for cybersecurity, and I am now kee
 - [Advanced Wireshark Operations](https://github.com/JudeVdByl/Advanced-Wireshark-Packet-Operations) - Advanced packet analysis techniques using Wireshark for in-depth network security assessment.
 - [Wireshark Basics Exploration](https://github.com/JudeVdByl/Wireshark-Basics-Exploration) - Introduction to Wireshark basics, focusing on foundational packet analysis skills.
 - [Brim Traffic Analysis](https://github.com/JudeVdByl/Network-Traffic-Analysis-with-Brim) - Network traffic analysis project utilizing Brim for efficient data examination and threat identification.
+- [Windows Event Log Analysis Project](https://github.com/JudeVdByl/Windows-Event-Log-Analysis-Project/blob/main/README.md) - A project showcasing expertise in utilizing Windows Event Logs for forensic analysis, threat detection, and system monitoring.
+
 
 # 
 
